@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Laboratorio_2_OOP_201902.Card
 {
-    public abstract class Card
+    public class Card
     {
         //Atributos
         protected string name;
@@ -40,6 +40,7 @@ namespace Laboratorio_2_OOP_201902.Card
                 this.type = value;
             }
         }
+
         public string Effect
         {
             get
