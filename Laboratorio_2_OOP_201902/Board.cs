@@ -77,7 +77,7 @@ namespace Laboratorio_2_OOP_201902
                 {
                     if (playerId == 0 || playerId == 1)
                     {
-                        if (playerCards[playerId].ContainsKey(card.Type))
+                        if (playerCards[playerId].ContainsKey(card.Type)) //como solo puede haber un tipo de specialcard en el board no dejo que se repita ninguna, y weather cards esta dentro de este diccionario tambien, ya que es una specialcard tambien
                         {
                             throw new IndexOutOfRangeException($"There is a {card.Type} already on the board");
                         }
