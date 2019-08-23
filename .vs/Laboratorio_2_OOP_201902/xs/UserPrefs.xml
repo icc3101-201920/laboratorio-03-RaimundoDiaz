@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{B7D6ABEE-FBF0-42CF-8463-A1ED51DAECBF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Laboratorio_2_OOP_201902/Deck.cs">
+    <Files>
+      <File FileName="Laboratorio_2_OOP_201902/Card/Card.cs" Line="7" Column="20" />
+      <File FileName="Laboratorio_2_OOP_201902/Card/CombatCard.cs" Line="7" Column="21" />
+      <File FileName="Laboratorio_2_OOP_201902/Card/SpecialCard.cs" Line="7" Column="20" />
+      <File FileName="Laboratorio_2_OOP_201902/Deck.cs" Line="7" Column="1" />
+      <File FileName="Laboratorio_2_OOP_201902/Board.cs" Line="1" Column="1" />
+      <File FileName="Laboratorio_2_OOP_201902/Game.cs" Line="8" Column="20" />
+      <File FileName="Laboratorio_2_OOP_201902/Hand.cs" Line="1" Column="1" />
+      <File FileName="Laboratorio_2_OOP_201902/Player.cs" Line="1" Column="1" />
+      <File FileName="Laboratorio_2_OOP_201902/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Laboratorio_2_OOP_201902" expanded="True">
+            <Node name="Laboratorio_2_OOP_201902" expanded="True">
+              <Node name="Card" expanded="True" />
+              <Node name="Deck.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Laboratorio__2__OOP__201902 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
